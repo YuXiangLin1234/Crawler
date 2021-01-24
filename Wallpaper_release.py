@@ -3,7 +3,7 @@ import requests
 import time
 import os
 
-driver = "./chromedriver_88.exe"
+driver = "./chromedriver.exe"
 validcategory = False
 nobrowser = webdriver.ChromeOptions()
 nobrowser.add_argument("headless")
