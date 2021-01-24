@@ -1,8 +1,8 @@
 ## Wallpaper
 Download photo from https://wallpapercrafter.com (If offend, please contact evan900527@gmail.com, the code will be deleted right away.)
 ### 
-- Chrome Driver 88.0.4324.96
-  https://chromedriver.storage.googleapis.com/index.html?path=88.0.4324.96/
+- Chrome Driver 88.0.4324.96 <br>
+  https://chromedriver.storage.googleapis.com/index.html?path=88.0.4324.96/ <br>
   Put the   chromedriver.exe   and   Wallpaper_release.py   in the same folder
 - selenium
 - requests
