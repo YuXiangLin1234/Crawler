@@ -12,7 +12,7 @@ Execute   Wallpaper_release.py  , and it will ask what kind of wallpaper you wan
 ### reference
 https://neverlandlin.github.io/Wallpaper-Downloader/
 
-## Wallpaper
+## Novel
 Download Novel from https://tw.hjwzw.com and save the novel as a text file (If offend, please contact evan900527@gmail.com, the code will be deleted right away.)
 ### 
 - Chrome Driver 88.0.4324.96 <br>
