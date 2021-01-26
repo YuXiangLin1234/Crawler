@@ -1,4 +1,4 @@
-(以下只供學習用途，請勿用做任何商業用途，如果侵犯到您的權利，請聯絡 evan900527@gmail.com)
+以下只供學習用途，請勿用做任何商業用途，如果侵犯到您的權利，請聯絡 evan900527@gmail.com
 ## Wallpaper
 Download photo from https://wallpapercrafter.com (If offend, please contact evan900527@gmail.com, the code will be deleted right away.)
 ### 
