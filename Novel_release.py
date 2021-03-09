@@ -35,10 +35,9 @@ try:
         if "Book/Read" not in i["href"]:
             continue
         print(url+i["href"])
-        html = requests.get(url + i["href"])
         obj = bs4.BeautifulSoup(html.text,"lxml")
-        f.write(obj.find("h1").text)
         browser.get(url + i["href"])
+        f.write(browser.find_element_by_tag_name("h1").text)
         article = browser.find_elements_by_tag_name("p")
         for j in article:
             f.write(j.text + "\n\n")
