@@ -27,8 +27,12 @@ print("menuurl: " , menuurl)
 browser.get(menuurl)
 f = open("_menu.txt","w",encoding="utf-8")
 pageurl = browser.find_elements_by_css_selector("dd a")
+menutable = []
 #print(pageurl)
 #print(pageurl[0].get_attribute("href"))
 for i in (pageurl):
-    f.writelines( i.get_attribute("href") + "\n")
+    #print(i.text)
+    if not i.text in menutable:
+        menutable.append(i.text)
+        f.writelines( i.get_attribute("href") + "\n")
 f.close()
